@@ -1,0 +1,81 @@
+01 The child process starts cat.
+02 The parent continues its own work.
+03 These lines belong to the child.
+04 The two processes have different PIDs.
+05 They share the terminal output.
+06 Their first messages may appear in either order.
+07 The parent then calls waitpid.
+08 waitpid waits for this particular child.
+09 The file is deliberately longer than one screen of short output.
+10 Each line is easy to identify.
+11 The child reads the next line.
+12 The parent is still waiting.
+13 The child reads the next line.
+14 The parent is still waiting.
+15 The child reads the next line.
+16 The parent is still waiting.
+17 The child reads the next line.
+18 The parent is still waiting.
+19 The child reads the next line.
+20 The parent is still waiting.
+21 The child reads the next line.
+22 The parent is still waiting.
+23 The child reads the next line.
+24 The parent is still waiting.
+25 The child reads the next line.
+26 The parent is still waiting.
+27 The child reads the next line.
+28 The parent is still waiting.
+29 The child reads the next line.
+30 The parent is still waiting.
+31 The child reads the next line.
+32 The parent is still waiting.
+33 The child reads the next line.
+34 The parent is still waiting.
+35 The child reads the next line.
+36 The parent is still waiting.
+37 The child reads the next line.
+38 The parent is still waiting.
+39 The child reads the next line.
+40 The parent is still waiting.
+41 The child reads the next line.
+42 The parent is still waiting.
+43 The child reads the next line.
+44 The parent is still waiting.
+45 The child reads the next line.
+46 The parent is still waiting.
+47 The child reads the next line.
+48 The parent is still waiting.
+49 The child reads the next line.
+50 The parent is still waiting.
+51 The child reads the next line.
+52 The parent is still waiting.
+53 The child reads the next line.
+54 The parent is still waiting.
+55 The child reads the next line.
+56 The parent is still waiting.
+57 The child reads the next line.
+58 The parent is still waiting.
+59 The child reads the next line.
+60 The parent is still waiting.
+61 The child reads the next line.
+62 The parent is still waiting.
+63 The child reads the next line.
+64 The parent is still waiting.
+65 The child reads the next line.
+66 The parent is still waiting.
+67 The child reads the next line.
+68 The parent is still waiting.
+69 The child reads the next line.
+70 The parent is still waiting.
+71 The child reads the next line.
+72 The parent is still waiting.
+73 The child reads the next line.
+74 The parent is still waiting.
+75 The child reads the next line.
+76 The parent is still waiting.
+77 The child reads the next line.
+78 The parent is still waiting.
+79 The child reads the next line.
+80 The parent is still waiting.
+81 The child reaches the end of the file.
