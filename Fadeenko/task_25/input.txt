@@ -1,0 +1,3 @@
+Hello from the Parent process!
+The child Reads this text through a PIPE.
+Unix, Solaris, and C: aBcDeF 0123456789.

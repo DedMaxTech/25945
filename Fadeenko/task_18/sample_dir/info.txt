@@ -1,0 +1,1 @@
+Pass sample_dir to listing to inspect the directory itself.
